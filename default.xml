@@ -27,6 +27,7 @@
   <project name="meta-qt5" path="sources/meta-qt5" remote="QT5" revision="a00af3eae082b772469d9dd21b2371dd4d237684"/>
   <project name="meta-timesys" path="sources/meta-timesys" remote="Timesys" revision="00f81fbdf7fba2a09ff83d14fc3b040e9ae63b42"/>
   <project name="meta-security" path="sources/meta-security" remote="yocto" revision="refs/heads/hardknott" />
+  <project name="meta-mono" path="sources/meta-mono" remote="yocto" revision="refs/heads/hardknott" />
   <project name="meta-dotnet-core" path="sources/meta-dotnet-core" remote="leoguiders" revision="master" />
   <project name="poky" path="sources/poky" remote="karo" revision="refs/tags/KARO-2021-10-05"/>
 
